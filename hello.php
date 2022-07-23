@@ -7,7 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello World</h1>
-    <p>Hello World!</p>
+    <H1>My First PHP Page</H1>
+
+    <?php
+        echo "Hello World";
+    ?>
 </body>
 </html>
